@@ -1,4 +1,4 @@
-# Arduino_SmileFunctionDecoder　AYA002-3 for PantaSpark Function Ver1.0<br>
+# Arduino_SmileFunctionDecoder　AYA002-3 for PantaSpark Function Ver1.1<br>
 DCC用SmileFunctionDecoder2 (AYA002-3)用のエフェクトファンクッションデコーダスケッチです。<br>
 パンタスパークという点灯パターンを用意しました。<br>
 <br>
@@ -29,4 +29,5 @@ https://www.youtube.com/watch?v=tvacC2sJmdU<br>
 http://dcc.client.jp/e725_201.html<br>
 ブログで紹介<br>
 http://ayabu.blog.shinobi.jp/attiny85dcc/<br>
- 
+<br>
+2016/10/16 28stepに対応,各項目CV値を使って設定変更できるように対応<br> 
